@@ -1,0 +1,6 @@
+{
+  "name": "CyberType 3D - Holographic Typing Tutor",
+  "description": "Master touch typing in a futuristic 3D environment with real-time holographic hand animations, keypress mechanics, heatmaps, and adaptive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
